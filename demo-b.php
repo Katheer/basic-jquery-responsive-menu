@@ -19,7 +19,6 @@
 <script src="js/custom-b.js"></script>
 </head>
 <body>
-<a href="../index.php" class="back-to-article"> Back To Article</a>
 <div class="wrapper">
 	<div class="navigation-bar menu-2">
 		<h1 class="logo">LOGO</h1>
