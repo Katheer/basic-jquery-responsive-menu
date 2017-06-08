@@ -152,5 +152,4 @@ The simplest method is to copy paste this snippet just before your closing `</he
 
 
 ***
-***
 ## END...
