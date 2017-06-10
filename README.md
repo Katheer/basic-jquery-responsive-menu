@@ -1,4 +1,4 @@
-# basic-jquery-responsive-menu
+# Basig jQuery Responsive Menu
 
 [![Basic Responsive Menu](http://katheermizal.info/images/projects/additional-works/work-1.png)](http://katheermizal.info)
 
